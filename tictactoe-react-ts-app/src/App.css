@@ -58,3 +58,11 @@
   background: yellow; 
 
 }
+
+.cell[data-player="1"]{
+  background: lightskyblue;
+}
+
+.cell[data-player="2"]{
+  background:rgb(212, 154, 29);
+}
